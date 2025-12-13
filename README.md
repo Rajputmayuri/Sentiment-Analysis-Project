@@ -37,8 +37,7 @@ The model is trained using **TF-IDF Vectorization** and **Logistic Regression**,
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+1. use the link:
+   https://sentiment-analysis-project-ptrdfdj2hwqseygkatzhys.streamlit.app/
