@@ -37,10 +37,9 @@ The model is trained using **TF-IDF Vectorization** and **Logistic Regression**,
 
 ---
 
-## 🚀 How to run
-
-1. use the link:
+## 🚀 Streamlit UI line
    https://sentiment-analysis-project-ptrdfdj2hwqseygkatzhys.streamlit.app/
+
 
 
 
